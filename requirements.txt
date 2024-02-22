@@ -88,4 +88,3 @@ sqlparse==0.4.4
 systemd-python==235
 Tempita==0.5.2
 urllib3==1.26.18
-Django==3.2.12
