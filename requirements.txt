@@ -78,7 +78,7 @@ s3transfer==0.10.0
 selinux @ file:///builddir/build/BUILD/libselinux-3.5/src
 sepolicy @ file:///builddir/build/BUILD/selinux-3.5/python/sepolicy
 setools==4.4.3
-setuptools==67.7.2
+setuptools==69.1.0
 simpleaudio==1.0.4
 simpleline==1.9.0
 six==1.16.0
